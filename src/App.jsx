@@ -158,7 +158,7 @@ export default function App() {
           {/* 名前 & 所属 */}
           <div className="space-y-2 drop-shadow-md">
             <h1 className="text-3xl sm:text-5xl font-extrabold tracking-tight">
-              滑川 勇太 <span className="font-light text-white/80 text-2xl sm:text-4xl">| Yuta Namekawa</span>
+              滑川 勇太 <span className="text-white/80">| Yuta Namekawa</span>
             </h1>
             <p className="text-base sm:text-lg font-medium text-white/95">
               東京科学大学 物質理工学院 材料系 修士2年
